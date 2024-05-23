@@ -5,13 +5,16 @@
 
 # Your Name
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/yourname)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/maheedhar-rao-govada-349986127/#/)
 
 ---
 
 ## About Me
 
-Brief introduction about yourself. You can include your career objective, interests, or anything else you find relevant.
+To utilize my skills in system design and infrastructure engineering to design and build scalable,
+high-availability platforms. I aim to contribute to a dynamic team, working on innovative solutions that handle
+large-scale data transactions and ensure seamless delivery of services. I am eager to support the growth and
+efficiency of an organization while expanding my expertise in modern software and systems engineering.
 
 ## Skills & Expertise
 
