@@ -18,27 +18,34 @@ efficiency of an organization while expanding my expertise in modern software an
 
 ## Skills & Expertise
 
-- **Programming Languages:** JavaScript, Python, Java
-- **Web Technologies:** HTML5, CSS3, React.js, Node.js, Express.js
-- **Database:** MySQL, MongoDB
-- **Version Control:** Git, GitHub
-- **Other Tools & Technologies:** Docker, AWS, Heroku
+
+- **Web Technologies:** HTML, XML, CSS, Angular, JavaScript
+- **Programming & Scripting Languages:** Python, JAVA, PowerShell scripting, Bash shell scripting
+- **Databases:** MySQL, Oracle, SQL, Postgres,No-SQL
+- **IDE & DevOps:** Visual Studio, Eclipse IDE, Postman, Docker, Kubernetes, Terraform, Ansible, Kafka, Grafana
+- **Cloud & Others:** AWS, Azure, SQL Server, VMware, Hyper-V
+- **Web Frameworks:** Spring MVC, Spring Boot, Restful Web Services, Hibernate, Django,Reactjs
+- **Operating Systems:** Windows, Linux, Unix
+- **CI/CD:** Jenkins, Git
 
 ## Experience
 
-### Company Name (Month Year - Present)
+### UOGEI (Jun 2023 - Present)
 
-- Job Title
+- Software Engineer Intern
   - Description of your responsibilities and achievements.
 
-### Company Name (Month Year - Month Year)
+### Grant Thornton (May 2019 - Oct 2021)
 
-- Job Title
+- Senior Support Engineer
+  - Description of your responsibilities and achievements.
+ 
+### Defense Research and Development Organization (DRDO) (Sep 2017 - Nov 2017)
+
+- Python Developer
   - Description of your responsibilities and achievements.
 
 ## Projects
-
-List some of your notable projects. Include a brief description and link to the GitHub repository or live demo.
 
 1. **Project Name**
    - Description: Brief description of the project.
@@ -52,24 +59,23 @@ List some of your notable projects. Include a brief description and link to the 
 
 ## Education
 
-- Degree Name, University Name (Year)
-- Relevant coursework or thesis topic.
+- Master in Computer Science, New Jersey Institute Of Technology (2023)
+
 
 ## Certifications
 
-List any relevant certifications you have obtained.
+- ITIL 4 Foundation
+- AZ-900 Microsoft Azure Fundamentals
+- CCNA - Cisco Certified Network Associate
+- Certification from Indian Institute of Technology - Delhi (IIT-D) for participating and developing an advanced
+chatbot for students on research journals using Transformers in 2017.
 
-- Certification Name (Year)
 
 ## Contact Me
 
-- Email: your.email@example.com
-- Phone: +1234567890
-- LinkedIn: [YourName](https://www.linkedin.com/in/yourname)
-- Portfolio: [YourWebsite](https://www.yourwebsite.com)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- Email: maheedhar1072@gmail.com
+- Phone: +1 309-989-8715
+- LinkedIn: [Maheedhar Rao](https://www.linkedin.com/in/maheedhar-rao-govada-349986127/#/)
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
