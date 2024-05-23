@@ -68,7 +68,8 @@ efficiency of an organization while expanding my expertise in modern software an
 - AZ-900 Microsoft Azure Fundamentals
 - CCNA - Cisco Certified Network Associate
 - Certification from Indian Institute of Technology - Delhi (IIT-D) for participating and developing an advanced
-chatbot for students on research journals using Transformers in 2017.
+  chatbot for students on research journals using Transformers in 2017.
+- Certified Django Framework Developer by Udemy
 
 
 ## Contact Me
