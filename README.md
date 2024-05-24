@@ -82,7 +82,7 @@ methodologies resulted in a robust and secure texting platform tailored to meet 
 
 3. **Image recognition pipeline in AWS**
    - Description:
-   - deployed two EC2 instances using Amazon Linux AMI, achieving an average uptime of 99.9% to ensure
+   - Deployed two EC2 instances using Amazon Linux AMI, achieving an average uptime of 99.9% to ensure
 uninterrupted parallel image processing. Instance A was configured to detect cars in images retrieved from an S3
 bucket, performing object detection with a 95% accuracy rate. The detected image indexes were stored in SQS with
 an average latency of less than 100ms.instance B processed these image indexes from SQS efficiently, achieving a throughput of 100 images per minute
@@ -95,6 +95,7 @@ high performance and reliability.
 ## Education
 
 - Master in Computer Science, New Jersey Institute Of Technology (2023)
+- Bachelors in technology in computer science and engineering, Vardhaman college of engineering (2015)
 
 
 ## Certifications
