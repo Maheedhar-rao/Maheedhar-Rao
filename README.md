@@ -43,6 +43,7 @@ efficiency of an organization while expanding my expertise in modern software an
 ### Grant Thornton (May 2019 - Oct 2021)
 
 - Senior Support Engineer
+  
     **Comprehensive SDLC Involvement and Infrastructure Management**: Actively participated in the full software development life cycle of big data projects, including requirement analysis, design, coding, testing, and production. Implemented and managed both Linux and Windows servers in VMware and Hyper-V environments, handled Hadoop cluster installations, and developed MapReduce programs for data processing.
 
     **Real-Time Data Ingestion and Cloud Migration**: Utilized Kafka and Spark Streaming for real-time data ingestion into HDFS. Successfully migrated on-premises environments to MS Azure cloud, ensuring efficient failover and failback activities. Led the uninstallation of end-of-life Adobe Acrobat from 400+ servers using Ansible for configuration management.
@@ -52,6 +53,7 @@ efficiency of an organization while expanding my expertise in modern software an
 ### Defense Research and Development Organization (DRDO) (Sep 2017 - Nov 2017)
 
 - Python Developer
+- 
     Conducted assessment of global variables, identifying over 15 instances of complexity and maintenance challenges.
    Evaluated issues like tight coupling, reducing modularity devised strategies, enhancing maintainability by 30%.
    Observed concurrency issues, impacting reliability by 25% analyzed for insights into improvements.
