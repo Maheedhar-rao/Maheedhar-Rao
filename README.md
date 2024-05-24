@@ -53,8 +53,8 @@ efficiency of an organization while expanding my expertise in modern software an
 ### Defense Research and Development Organization (DRDO) (Sep 2017 - Nov 2017)
 
 - Python Developer
-- 
-    Conducted assessment of global variables, identifying over 15 instances of complexity and maintenance challenges.
+
+      Conducted assessment of global variables, identifying over 15 instances of complexity and maintenance challenges.
    Evaluated issues like tight coupling, reducing modularity devised strategies, enhancing maintainability by 30%.
    Observed concurrency issues, impacting reliability by 25% analyzed for insights into improvements.
    Implemented deterministic approaches, ensuring predictable system behavior under various conditions.
