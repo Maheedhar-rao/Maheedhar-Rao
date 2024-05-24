@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-### A Technology and Data Enthusiast , Software Engineer.
-### Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate Software Engineer.
+### A Engineer.
+### Welcome to my world! Here you'll find "ME".
 
 # Maheedhar Rao Govada
 
@@ -77,8 +77,6 @@ components, promoting a clean and modular design. This setup not only facilitate
 ensures that the system remains scalable and maintainable. The combination of these technologies and
 methodologies resulted in a robust and secure texting platform tailored to meet the needs of registered users.
 
- - GitHub Repository: [Link](https://github.com/yourusername/project)
-   - Live Demo: [Link](https://www.projectdemo.com)
 
 3. **Image recognition pipeline in AWS**
    - Description:
@@ -89,8 +87,7 @@ an average latency of less than 100ms.instance B processed these image indexes f
 for text recognition. This instance demonstrated a 98% accuracy rate in extracting textual information from the
 images.This setup ensured a robust and efficient system for parallel image processing, leveraging AWS services to maintain
 high performance and reliability.
-   - GitHub Repository: [Link](https://github.com/yourusername/project)
-   - Live Demo: [Link](https://www.projectdemo.com)
+   
 
 ## Education
 
