@@ -62,13 +62,33 @@ efficiency of an organization while expanding my expertise in modern software an
 
 ## Projects
 
-1. **Project Name**
-   - Description: Brief description of the project.
-   - GitHub Repository: [Link](https://github.com/yourusername/project)
+1. **Secure texting platform using JAVA20**
+   - Description:
+   - Built a secure texting platform that enables users to register, authenticate, send, and receive messages. The
+platform leverages JSON Web Tokens (JWT) for secure authentication, ensuring that all RESTful API
+interactions are protected. Utilizing the Spring Boot framework, the application was developed with Spring MVC to handle HTTP requests
+efficiently. To ensure easy deployment across different platforms, the application was encapsulated within a Docker
+container. This approach simplified the deployment process and provided a consistent environment for the
+application to run. Expertise in configuring Spring Security was showcased to manage JWT authentication and authorization
+seamlessly, ensuring that only authenticated users could access the messaging functionalities. The testing phase of
+the project utilized JUnit and Mockito, enabling rigorous unit and integration testing to validate the application's
+functionality and security measures. The application's architecture relies on RESTful APIs for communication between the client and server
+components, promoting a clean and modular design. This setup not only facilitates secure data exchange but also
+ensures that the system remains scalable and maintainable. The combination of these technologies and
+methodologies resulted in a robust and secure texting platform tailored to meet the needs of registered users.
+
+ - GitHub Repository: [Link](https://github.com/yourusername/project)
    - Live Demo: [Link](https://www.projectdemo.com)
 
-2. **Project Name**
-   - Description: Brief description of the project.
+3. **Image recognition pipeline in AWS**
+   - Description:
+   - deployed two EC2 instances using Amazon Linux AMI, achieving an average uptime of 99.9% to ensure
+uninterrupted parallel image processing. Instance A was configured to detect cars in images retrieved from an S3
+bucket, performing object detection with a 95% accuracy rate. The detected image indexes were stored in SQS with
+an average latency of less than 100ms.instance B processed these image indexes from SQS efficiently, achieving a throughput of 100 images per minute
+for text recognition. This instance demonstrated a 98% accuracy rate in extracting textual information from the
+images.This setup ensured a robust and efficient system for parallel image processing, leveraging AWS services to maintain
+high performance and reliability.
    - GitHub Repository: [Link](https://github.com/yourusername/project)
    - Live Demo: [Link](https://www.projectdemo.com)
 
