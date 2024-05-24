@@ -32,18 +32,30 @@ efficiency of an organization while expanding my expertise in modern software an
 
 ### UOGEI (Jun 2023 - Present)
 
-- Software Engineer Intern
-  - Description of your responsibilities and achievements.
+- Software Engineering Intern
+  1. **Developed a Scalable Employee Management System**: Designed a robust internal webpage and MySQL database for efficient access to employee data, utilizing React for a dynamic front-end and ensuring seamless connectivity with an Express server. Implemented JWT-based authentication and deployed on AWS using Docker, Ansible, and AWS Glue for configuration management and ETL processes.
+
+2. **Enhanced Security and Performance**: Implemented strong security measures including data encryption, secure authentication, and regular audits. Conducted performance tuning for both the database and application, achieving fast response times and efficient resource utilization.
+
+3. **Facilitated Continuous Development and Maintenance**: Utilized Selenium for automated testing and Git for CI/CD to ensure reliable development and deployment. Created comprehensive documentation and provided staff training, leveraging Jira for task management to support scalability and maintainability.
 
 ### Grant Thornton (May 2019 - Oct 2021)
 
 - Senior Support Engineer
-  - Description of your responsibilities and achievements.
+    1. **Comprehensive SDLC Involvement and Infrastructure Management**: Actively participated in the full software development life cycle of big data projects, including requirement analysis, design, coding, testing, and production. Implemented and managed both Linux and Windows servers in VMware and Hyper-V environments, handled Hadoop cluster installations, and developed MapReduce programs for data processing.
+
+2. **Real-Time Data Ingestion and Cloud Migration**: Utilized Kafka and Spark Streaming for real-time data ingestion into HDFS. Successfully migrated on-premises environments to MS Azure cloud, ensuring efficient failover and failback activities. Led the uninstallation of end-of-life Adobe Acrobat from 400+ servers using Ansible for configuration management.
+
+3. **Performance Optimization, Security, and Reporting**: Performed effective troubleshooting and incident management with a high accuracy rate. Created customizable dashboards for tracking KPIs of 40+ projects and managed 3000+ server vulnerabilities. Refactored Python code for consistency and maintained adherence to PEP 8 standards while implementing critical changes in the production environment.
  
 ### Defense Research and Development Organization (DRDO) (Sep 2017 - Nov 2017)
 
 - Python Developer
-  - Description of your responsibilities and achievements.
+   1. Conducted assessment of global variables, identifying over 15 instances of complexity and maintenance challenges.
+   2.Evaluated issues like tight coupling, reducing modularity devised strategies, enhancing maintainability by 30%.
+   3.Observed concurrency issues, impacting reliability by 25% analyzed for insights into improvements.
+   4.Implemented deterministic approaches, ensuring predictable system behavior under various conditions.
+   5.Managed race conditions, reducing data corruption incidents by 40% using synchronization mechanisms
 
 ## Projects
 
