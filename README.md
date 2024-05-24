@@ -33,6 +33,7 @@ efficiency of an organization while expanding my expertise in modern software an
 ### UOGEI (Jun 2023 - Present)
 
 - Software Engineering Intern
+  
    **Developed a Scalable Employee Management System**: Designed a robust internal webpage and MySQL database for efficient access to employee data, utilizing React for a dynamic front-end and ensuring seamless connectivity with an Express server. Implemented JWT-based authentication and deployed on AWS using Docker, Ansible, and AWS Glue for configuration management and ETL processes.
 
   **Enhanced Security and Performance**: Implemented strong security measures including data encryption, secure authentication, and regular audits. Conducted performance tuning for both the database and application, achieving fast response times and efficient resource utilization.
