@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: Verdana, sans-serif; /* ✅ Font updated */
+  background-color: #0f172a;
+  color: white;
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* Glass overlay for contrast */
+.content-overlay {
+  background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent dark layer */
+  padding: 60px 20px;
+  border-radius: 12px;
+  max-width: 1000px;
+  margin: 0 auto;
+  backdrop-filter: blur(10px);
+}
