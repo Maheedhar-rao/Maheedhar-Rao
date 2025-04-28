@@ -5,7 +5,7 @@
 
 # Maheedhar Rao Govada
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/maheedhar-rao-govada-349986127/#/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maheedhar-blue)](https://www.linkedin.com/in/maheedhar-rao-govada-349986127/#/)
 
 ---
 
