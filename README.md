@@ -30,13 +30,20 @@ efficiency of an organization while expanding my expertise in modern software an
 
 ## Experience
 ### Pathway Catalyst Partners.   (May 2024 - Present)
-- Software Engineer 2 
-**Led the design and launch of a Django-based lender eligibility platform, streamlining financial statement parsing, underwriting rule engines, and automated lender matching to improve decision accuracy by 60%. 
-**Developed scalable Node.js microservices integrating Gmail APIs and MySQL databases, automating deal submission tracking and reducing operational time by 65%. 
-**Built an LLM-driven classification system integrated with Gmail APIs and Streak CRM, automating lender decision workflows and cutting manual tracking by 75%. 
-**Implemented asynchronous task processing with RabbitMQ to decouple email ingestion, classification, and submission workflows, enhancing system resilience and peak load handling by 40%. 
-**entralized classified results and live deal submissions within a unified PostgreSQL-backed portal, enabling real-time analytics and operational visibility. 
-**Operationalized CI/CD pipelines using Airflow and Grafana dashboards, delivering continuous system telemetry, faster incident response, and real-time monitoring.
+
+- Software Engineer 2
+  
+   **Led the design and launch of a Django-based lender eligibility platform, streamlining financial statement parsing, underwriting rule engines, and automated lender matching to improve decision accuracy by 60%.
+  
+  **Developed scalable Node.js microservices integrating Gmail APIs and MySQL databases, automating deal submission tracking and reducing operational time by 65%.
+  
+  **Built an LLM-driven classification system integrated with Gmail APIs and Streak CRM, automating lender decision workflows and cutting manual tracking by 75%.
+  
+  **Implemented asynchronous task processing with RabbitMQ to decouple email ingestion, classification, and submission workflows, enhancing system resilience and peak load handling by 40%.
+  
+  **entralized classified results and live deal submissions within a unified PostgreSQL-backed portal, enabling real-time analytics and operational visibility.
+  
+  **Operationalized CI/CD pipelines using Airflow and Grafana dashboards, delivering continuous system telemetry, faster incident response, and real-time monitoring.
 
 ### UOGEI (Jun 2023 - Apr 2024)
 
